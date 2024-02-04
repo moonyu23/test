@@ -1,0 +1,3 @@
+FROM fedare 
+RUN echo ' helo"
+
